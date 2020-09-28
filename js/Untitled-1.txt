@@ -1,0 +1,12 @@
+//variables 
+const carrito = document.querybale
+
+
+//listerners
+
+
+
+//funciones
+
+
+//leer datos de cursos
